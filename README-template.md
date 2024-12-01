@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Issick/Social-Links-Profile-Main/tree/main)
+- Live Site URL: [Add live site URL here](https://issick.github.io/Social-Links-Profile-Main/)
 
 ## My process
 
@@ -45,5 +45,5 @@ I will keep going on it
 ## Author
 
 - Frontend Mentor -
-  [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+  [@yourusername](https://www.frontendmentor.io/profile/Issick)
+- LinkedIn - [@yourusername](www.linkedin.com/in/essa-azrak-a3b6a3131)
